@@ -11,7 +11,7 @@
 ## dbt Project Level dependencies (as shown in dbt Cloud Explorer)
  ![Project Level Dependencies](./documentation/dbt_cloud_mesh_all_projs.png)
 
-## This projects showing the upstream dependency of the Data Engineering hub Project (as shown in dbt Cloud Explorer)
+## This project showing the upstream dependency of the Data Engineering Hub Project (as shown in dbt Cloud Explorer)
  ![Downstream Project with Upstream Dependencies](./documentation/dbt_cloud_mesh_sa.png)
 
 ## The Data Engineering project with downstream project dependencies including this project (as shown in dbt Cloud Explorer)
