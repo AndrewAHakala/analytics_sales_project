@@ -4,10 +4,11 @@
 
 #### This repo is one of three repos used to demo and sample dbt Cloud mesh which includes:
 - [Cross Project dbt References](https://docs.getdbt.com/docs/collaborate/govern/project-dependencies#how-to-write-cross-project-ref)
-- [dbt Model Governance]()
-    - [dbt Model Versions]()
-    - [dbt Model Contracts]()
-    - [dbt Model Access]()
+- dbt Model Governance
+    - [dbt Model Versions](https://docs.getdbt.com/docs/collaborate/govern/model-versions)
+    - [dbt Model Contracts](https://docs.getdbt.com/docs/collaborate/govern/model-contracts)
+    - [dbt Model Access](https://docs.getdbt.com/docs/collaborate/govern/model-access#access-modifiers)
+        - [dbt Model Groups](https://docs.getdbt.com/docs/collaborate/govern/model-access#groups)
 
 
 
